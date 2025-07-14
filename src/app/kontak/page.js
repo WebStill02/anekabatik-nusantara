@@ -6,7 +6,7 @@ import SendIcon from '@mui/icons-material/Send';
 import PhoneIcon from '@mui/icons-material/Phone';
 import EmailIcon from '@mui/icons-material/Email';
 import LocationOnIcon from '@mui/icons-material/LocationOn';
-import { Box, Typography, TextField, Button, Container, Grid } from '@mui/material';
+import {Grid } from '@mui/material';
 
 export default function KontakPage() {
   const [formData, setFormData] = useState({
