@@ -44,7 +44,7 @@ export default function AboutUsPage() {
         className={`animate-on-scroll ${inViewImage ? 'is-visible' : ''}`} // Terapkan kelas animasi
       >
         <Image
-          src="/batikfoto.jpg"
+          src="/Lawasan Jawa.jpg"
           alt="Batik Indonesia"
           width={800}
           height={450}
