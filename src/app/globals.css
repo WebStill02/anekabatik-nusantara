@@ -28,6 +28,7 @@ a {
 .animate-on-scroll.is-visible {
   opacity: 1;
   transform: translateY(0); 
+}
 
 .animate-fade-in {
   opacity: 0;
